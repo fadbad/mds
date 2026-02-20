@@ -1,6 +1,4 @@
-# Squidway Internal Docs
-
-## Table of contents
+# Table of contents
 
 * [Instagram DM Templates](instagram-dm.md)
 * [Spacial Cases]()
